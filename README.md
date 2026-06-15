@@ -15,11 +15,9 @@ RainMatrix recreates the iconic Matrix terminal aesthetic directly on your deskt
 - Pure Rainmeter implementation
 - No external plugins required
 
-## Screenshots
+## Preview
 
-| Main View |
-|-----------|
-| <img width="1918" height="1078" alt="preview" src="https://github.com/user-attachments/assets/086e6ba4-7a48-49ba-940a-b8b1b990bbff" />
+https://github.com/user-attachments/assets/18e9527e-a0af-4610-bf02-f42ade89a303
 
 ## Installation
 

@@ -29,20 +29,23 @@ RainMatrix recreates the iconic Matrix terminal aesthetic directly on your deskt
 - Windows 10/11
 
 ### Setup
-#### Clone Repository
 
 ```bash
 git clone https://github.com/outlawishhh/RainMatrix.git
 ```
 
-Copy the `RainMatrix` folder into your Rainmeter `Skins` directory:
+Copy the `RainMatrix` folder into your Rainmeter skins directory:
 
 ```text
 Documents/
 └── Rainmeter/
     └── Skins/
         └── RainMatrix/
+            ├── RainMatrix.ini
+            └── RainMatrix.lua
 ```
+
+Refresh Rainmeter and load the skin through the Rainmeter manager.
 
 Refresh Rainmeter and load the skin through the Rainmeter manager.
 

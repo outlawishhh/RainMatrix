@@ -1,5 +1,5 @@
 # RainMatrix
-A cmatrix skin for rainmeter
+A CMatrix skin for Rainmeter.
 
 ## Overview
 

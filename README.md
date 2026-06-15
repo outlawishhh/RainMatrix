@@ -19,7 +19,7 @@ RainMatrix recreates the iconic Matrix terminal aesthetic directly on your deskt
 
 | Main View |
 |-----------|
-| <img width="1918" height="1078" alt="Screenshot 2026-06-15 160722" src="https://github.com/user-attachments/assets/086e6ba4-7a48-49ba-940a-b8b1b990bbff" />
+| <img width="1918" height="1078" alt="preview" src="https://github.com/user-attachments/assets/086e6ba4-7a48-49ba-940a-b8b1b990bbff" />
 
 ## Installation
 
